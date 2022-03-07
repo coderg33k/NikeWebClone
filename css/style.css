@@ -2,7 +2,6 @@
     margin:0;
     padding:0;
 }
-
  /* first nav css starts here */
  .converse-logo{
     height: 30px;
@@ -11,7 +10,6 @@
    
     
   }
-
 .nav-font{
 font-family: Helvetica;
 font-style: normal;
@@ -20,9 +18,7 @@ font-size: 12px;
 line-height: 14px;
 color: #757575;
 }
-
 .nav-font:hover{
-
 color: #757575;
 }
  .nav-font-dropdown{
@@ -39,26 +35,21 @@ color: #757575;
 /* first nav css ends here */
 .nike-logo2{
     margin-left: 30px;
-
     }
-
 .text-align{
     margin:0 auto;
 }
-
 .color{
     background-color:#ffffff;
    
 }
 .font-nav2{
-
   
     font-family:Helvetica;
     font-weight: 500px;
     font-size: 16px;
     line-height: 1.5;
 }
-
 .button{
   height: 40px;
   width: 50px;
@@ -95,7 +86,6 @@ color: #757575;
     width: 30px;
     margin-right:20px;
     background-color:#e5e5e5;
-
 }
 .cart-size{
     height: 30px;
@@ -114,7 +104,6 @@ color: #757575;
    
     
 }
-
 /* carosel custom css starts here */
     .carousel-size{
         height: 60px;
@@ -128,7 +117,6 @@ color: #757575;
         font-size: 16px;
         line-height: 16px;
         color: #111111;
-
     }
     .join-now{
         color: #111111;
@@ -141,9 +129,7 @@ color: #757575;
     }
     
  /* carosel custom css ends here */
-
  /* first hero image custom css starts */
-
  .card-container{
      display: flex;
      height: 740px;
@@ -151,7 +137,6 @@ color: #757575;
      border: none;
      margin: 0 auto;
  }
-
         .tag-line-container{
          margin-top: 500px;
            
@@ -165,15 +150,11 @@ color: #757575;
         line-height: 28px;
         font-weight: 500px;
         color: #111111;
-
        }
        
         
-
  /* first hero image custom css starts */
-
  /* first footer css  Starts here */
-
 .first-footer-heading {
         font-family:Helvetica;
         font-style: normal;
@@ -191,7 +172,6 @@ color: #757575;
         color: #111111;
         font-weight: 500px;
        
-
  }
 .footer-main{
     display: flex;
@@ -214,7 +194,6 @@ color: #757575;
         display:flex;
         background-color: #111111;
     }
-
     .second-footer-heading {
         font-family:Helvetica;
         font-style: normal;
@@ -228,7 +207,6 @@ color: #757575;
         color:#ffffff;
     }
    
-
     .second-footer-content a{
      text-decoration: none;
      font-family:Helvetica;
@@ -260,7 +238,6 @@ color: #757575;
     border-radius: 100%;
     text-decoration: none;
    }
-
    .fa:hover{
        background-color: #ffffff;
        color:#111111;
@@ -274,22 +251,15 @@ color:#757575;
 display:flex;
 justify-content:flex-end;
 }
-.map-icon{
- 
-
-}
 .copyWrite-content{
 margin-left:80px;
-
 }
 .united-states{
 color:#ffffff;
 margin:10px
 }
-
 .flex-item{
 margin:10px;
-
 }
 .flex-item p, span{
         font-family:Helvetica;
@@ -303,4 +273,3 @@ margin:10px;
 color:#ffffff
 }
 /* second footer ends here */
-
